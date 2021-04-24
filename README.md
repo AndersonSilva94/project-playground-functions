@@ -1,4 +1,4 @@
-## Projeto Playground Function :memo:
+## Projeto Playground Function :carousel_horse:
 
 ### Segundo projeto do curso de Desenvolvimento Full Stack Web da Trybe.
 
